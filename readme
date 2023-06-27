@@ -1,0 +1,7 @@
+# DataBaseConectionapp
+# First script for a secure database conection and interactions.
+#
+# The code is written in Spanish as it was the final project when studying Python, but it can be translated if needed.
+# This code allows you to connect as user or admin to any database in MySQL, giving you access to load, modify and download data.
+# You can encrypt an decrypt the load data. 
+# In this case it had a password database so it is focused for that purpose, but the framework may change and redirect to another subject.
